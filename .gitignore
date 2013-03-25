@@ -1,0 +1,10 @@
+*.bak
+/atk4
+/atk4-addons
+/.settings
+.buildpath
+.project
+config.php
+
+upload
+.externalToolBuilders
